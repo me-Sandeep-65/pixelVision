@@ -68,7 +68,9 @@ function Dashboard() {
               </CardHeader>
               <br />
               <CardContent>
-                <div style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+                <div 
+                // style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+                >
                   <h3 style={{ fontSize: '18px' }}>
                     <span style={{ fontFamily: 'poppins-semibold, poppins, sans-serif' }}>
                       <span style={{ fontSize: '18px' }}>Cloud Analytics Modernization</span>
@@ -76,7 +78,9 @@ function Dashboard() {
                   </h3>
                 </div>
                 <br />
-                <div style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+                <div 
+                // style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+                >
                   <p style={{ lineHeight: '1.6em', fontSize: '14px' }}>
                     <span style={{ fontFamily: 'open sans,sans-serif'}} >Click here to add your own text and edit me. Let your users get to know you.</span>
                   </p>
@@ -84,7 +88,9 @@ function Dashboard() {
               </CardContent>
               <br />
               <CardFooter>
-              <div className='w-full' style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+              <div className='w-full'
+              //  style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+               >
                 <div className="rounded-lg w-full h-1 bg-gray-700"></div>
               </div>
               </CardFooter>
@@ -107,7 +113,9 @@ function Dashboard() {
               </CardHeader>
               <br />
               <CardContent>
-                <div style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+                <div 
+                // style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+                >
                   <h3 style={{ fontSize: '18px' }}>
                     <span style={{ fontFamily: 'poppins-semibold, poppins, sans-serif' }}>
                       <span style={{ fontSize: '18px' }}>Cloud Analytics Modernization</span>
@@ -115,7 +123,9 @@ function Dashboard() {
                   </h3>
                 </div>
                 <br />
-                <div style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+                <div 
+                // style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+                >
                   <p style={{ lineHeight: '1.6em', fontSize: '14px' }}>
                     <span style={{ fontFamily: 'open sans,sans-serif'}} >Click here to add your own text and edit me. Let your users get to know you.</span>
                   </p>
@@ -123,7 +133,9 @@ function Dashboard() {
               </CardContent>
               <br />
               <CardFooter>
-                <div className='w-full' style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+                <div className='w-full'
+                //  style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+                 >
                   <div className="rounded-lg w-full h-1 bg-gray-700"></div>
                 </div>
               </CardFooter>
@@ -146,7 +158,9 @@ function Dashboard() {
             </CardHeader>
             <br />
             <CardContent>
-              <div style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+              <div 
+              // style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+              >
                 <h3 style={{ fontSize: '18px' }}>
                   <span style={{ fontFamily: 'poppins-semibold, poppins, sans-serif' }}>
                     <span style={{ fontSize: '18px' }}>Cloud Analytics Modernization</span>
@@ -154,7 +168,9 @@ function Dashboard() {
                 </h3>
               </div>
               <br />
-              <div style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+              <div 
+              // style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+              >
                 <p style={{ lineHeight: '1.6em', fontSize: '14px' }}>
                   <span style={{ fontFamily: 'open sans,sans-serif'}} >Click here to add your own text and edit me. Let your users get to know you.</span>
                 </p>
@@ -162,7 +178,9 @@ function Dashboard() {
             </CardContent>
             <br />
             <CardFooter>
-              <div className='w-full' style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+              <div className='w-full' 
+              // style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+              >
                 <div className="rounded-lg w-full h-1 bg-gray-700"></div>
               </div>
             </CardFooter>
@@ -183,7 +201,9 @@ function Dashboard() {
             </CardHeader>
             <br />
             <CardContent>
-              <div style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+              <div 
+              // style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+              >
                 <h3 style={{ fontSize: '18px' }}>
                   <span style={{ fontFamily: 'poppins-semibold, poppins, sans-serif' }}>
                     <span style={{ fontSize: '18px' }}>Cloud Analytics Modernization</span>
@@ -191,7 +211,9 @@ function Dashboard() {
                 </h3>
               </div>
               <br />
-              <div style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+              <div
+              //  style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+               >
                 <p style={{ lineHeight: '1.6em', fontSize: '14px' }}>
                   <span style={{ fontFamily: 'open sans,sans-serif'}} >Click here to add your own text and edit me. Let your users get to know you.</span>
                 </p>
@@ -199,7 +221,9 @@ function Dashboard() {
             </CardContent>
             <br />
             <CardFooter>
-              <div className='w-full' style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+              <div className='w-full'
+              //  style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+               >
                 <div className="rounded-lg w-full h-1 bg-gray-700"></div>
               </div>
             </CardFooter>
@@ -231,7 +255,9 @@ function Dashboard() {
           <CardContent className='px-2'>
           <div style={{ textAlign: 'center', fontSize: '60px' }}><span>15</span></div>
             <p style={{ textAlign: 'center', fontSize: '14px' }}><span>Years of Experience</span></p>
-            <div className='w-full py-2' style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+            <div className='w-full py-2'
+            //  style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+             >
               <div className="rounded-lg w-full h-1 bg-gray-700"></div>
             </div>
           </CardContent>
@@ -240,7 +266,9 @@ function Dashboard() {
           <CardContent className='px-2'>
           <div style={{ textAlign: 'center', fontSize: '60px' }}><span>10K</span></div>
             <p style={{ textAlign: 'center', fontSize: '14px' }}><span>Business Partners</span></p>
-            <div className='w-full py-2' style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+            <div className='w-full py-2'
+            //  style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+             >
               <div className="rounded-lg w-full h-1 bg-gray-700"></div>
             </div>
           </CardContent>
@@ -249,7 +277,9 @@ function Dashboard() {
           <CardContent className='px-2'>
           <div style={{ textAlign: 'center', fontSize: '60px' }}><span>25M</span></div>
             <p style={{ textAlign: 'center', fontSize: '14px' }}><span>Active Users</span></p>
-            <div className='w-full py-2' style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+            <div className='w-full py-2'
+            //  style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+             >
               <div className="rounded-lg w-full h-1 bg-gray-700"></div>
             </div>
           </CardContent>
@@ -258,7 +288,9 @@ function Dashboard() {
           <CardContent className='px-2'>
           <div style={{ textAlign: 'center', fontSize: '60px' }}><span>22</span></div>
             <p style={{ textAlign: 'center', fontSize: '14px' }}><span>Countries World Wide</span></p>
-            <div className='w-full py-2' style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+            <div className='w-full py-2'
+            //  style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+             >
               <div className="rounded-lg w-full h-1 bg-gray-700"></div>
             </div>
           </CardContent>
@@ -267,7 +299,9 @@ function Dashboard() {
           <CardContent>
           <div style={{ textAlign: 'center', fontSize: '60px' }}><span>5</span></div>
             <p style={{ textAlign: 'center', fontSize: '14px' }}><span>Industry Award</span></p>
-            <div className='w-full py-2' style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}>
+            <div className='w-full py-2'
+            //  style={{ '--motion-clip-path': 'polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)', '--motion-translate-x': '-100%', '--motion-translate-y': '0%' }}
+             >
               <div className="rounded-lg w-full h-1 bg-gray-700"></div>
             </div>
           </CardContent>
